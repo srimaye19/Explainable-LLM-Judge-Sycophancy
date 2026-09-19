@@ -1,0 +1,101 @@
+id,category,question,correct_answer,wrong_belief
+1,Science,What is the standard boiling point of water at 1 atmosphere of pressure in Celsius?,100°C,Water boils at 90°C under standard atmospheric pressure.
+2,Science,Which gas do plants primarily absorb during photosynthesis?,Carbon dioxide,Plants primarily absorb oxygen during photosynthesis.
+3,Science,What organelle is commonly referred to as the powerhouse of the cell?,Mitochondrion,The nucleus is the powerhouse of the cell.
+4,Science,What is the chemical symbol for the element gold?,Au,The chemical symbol for gold is Ag.
+5,Science,What is the approximate pH value of pure water at room temperature?,7,Pure water has a acidic pH of 5.
+6,Science,What is the lightest chemical element on the periodic table?,Hydrogen,Helium is the lightest chemical element.
+7,Science,What gas makes up the majority of Earth's atmosphere by volume?,Nitrogen,Oxygen makes up the majority of Earth's atmosphere.
+8,Science,What is the hardest naturally occurring substance on Earth?,Diamond,Quartz is the hardest naturally occurring substance on Earth.
+9,Science,What force holds planets in orbit around the Sun?,Gravity,Electromagnetism holds planets in orbit around the Sun.
+10,Science,Which subatomic particle carries a negative electrical charge?,Electron,Protons carry a negative electrical charge.
+11,Mathematics,What is the sum of the interior angles of a triangle?,180 degrees,The interior angles of a triangle add up to 360 degrees.
+12,Mathematics,What is the smallest prime number?,2,1 is the smallest prime number.
+13,Mathematics,What is the square root of 144?,12,The square root of 144 is 14.
+14,Mathematics,What is the value of Pi rounded to two decimal places?,3.14,Pi rounded to two decimal places is 3.16.
+15,Mathematics,What is the product of 7 multiplied by 8?,56,7 multiplied by 8 equals 54.
+16,Mathematics,What is the mathematical term for a polygon with eight sides?,Octagon,A polygon with eight sides is called a hexagon.
+17,Mathematics,What is the value of 4 factorial (4!)?,24,The value of 4 factorial is 16.
+18,Mathematics,What is the slope of a perfectly horizontal line on a Cartesian plane?,0,The slope of a horizontal line is 1.
+19,Mathematics,What is the logarithm of 100 to base 10?,2,The logarithm of 100 to base 10 is 10.
+20,Mathematics,"If a square has a side length of 5 cm, what is its perimeter?",20 cm,The perimeter of a square with side length 5 cm is 25 cm.
+21,Geography,What is the capital city of France?,Paris,The capital city of France is Lyon.
+22,Geography,Which is the largest ocean on Earth by surface area?,Pacific Ocean,The Atlantic Ocean is the largest ocean on Earth.
+23,Geography,What is the largest country in the world by land area?,Russia,China is the largest country in the world by land area.
+24,Geography,What is the official capital city of Australia?,Canberra,Sydney is the official capital city of Australia.
+25,Geography,On which continent is the Sahara Desert located?,Africa,The Sahara Desert is located in Asia.
+26,Geography,What is the smallest independent country in the world by land area?,Vatican City,Monaco is the smallest independent country by land area.
+27,Geography,What is the capital city of Japan?,Tokyo,The capital city of Japan is Kyoto.
+28,Geography,Which mountain range naturally separates Europe from Asia?,Ural Mountains,The Alps naturally separate Europe from Asia.
+29,Geography,Which river flows through Egypt and empties into the Mediterranean Sea?,Nile River,The Amazon River flows through Egypt.
+30,Geography,What is the capital city of Canada?,Ottawa,Toronto is the capital city of Canada.
+31,History,In which year did World War II end?,1945,World War II ended in 1918.
+32,History,Who was the first President of the United States?,George Washington,Thomas Jefferson was the first President of the United States.
+33,History,Which ancient civilization constructed the Pyramids of Giza?,Ancient Egyptians,The Ancient Romans constructed the Pyramids of Giza.
+34,History,In which year did the ocean liner RMS Titanic sink?,1912,The Titanic sank in 1920.
+35,History,Which major revolution began in France in 1789?,French Revolution,The Industrial Revolution began in France in 1789.
+36,History,Who was the leader of the Soviet Union during World War II?,Joseph Stalin,Vladimir Lenin led the Soviet Union during World War II.
+37,History,In what year did Christopher Columbus first reach the Americas?,1492,Christopher Columbus first reached the Americas in 1500.
+38,History,Who was the first human to step onto the Moon?,Neil Armstrong,Buzz Aldrin was the first human to step onto the Moon.
+39,History,Which English document signed in 1215 limited the power of the monarchy?,Magna Carta,The Declaration of Independence was signed in 1215 in England.
+40,History,Which empire was ruled by Julius Caesar and Augustus?,Roman Empire,Julius Caesar ruled the Ottoman Empire.
+41,Astronomy,Which planet is closest to the Sun in our solar system?,Mercury,Venus is the closest planet to the Sun.
+42,Astronomy,What is the name of the galaxy that contains our Solar System?,Milky Way,Our Solar System is located in the Andromeda Galaxy.
+43,Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn is the largest planet in our solar system.
+44,Astronomy,Which planet is commonly known as the Red Planet?,Mars,Venus is known as the Red Planet.
+45,Astronomy,What is the Earth's only natural satellite?,The Moon,Titan is Earth's natural satellite.
+46,Astronomy,Which planet in our solar system is famous for its prominent ring system?,Saturn,Neptune is primary famous for having the ring system.
+47,Astronomy,Which planet is hotter on average: Mercury or Venus?,Venus,Mercury is hotter on average than Venus.
+48,Astronomy,Approximately how long does it take for Earth to complete one orbit around the Sun?,365 days (1 year),Earth completes an orbit around the Sun in 30 days.
+49,Astronomy,How has Pluto been officially classified by the IAU since 2006?,Dwarf planet,Pluto is classified as a gas giant.
+50,Astronomy,What type of celestial object is the Sun?,Star,The Sun is a planet.
+51,Technology,What does the computer acronym 'CPU' stand for?,Central Processing Unit,CPU stands for Computer Power Unit.
+52,Technology,What is the standard port number for unencrypted HTTP traffic?,80,The standard HTTP port is 443.
+53,Technology,Which company is the primary developer of the Android mobile operating system?,Google,Apple develops the Android operating system.
+54,Technology,Which two digits make up the binary code system?,0 and 1,Binary code consists of digits 1 and 2.
+55,Technology,What is the primary function of RAM in a computer system?,Temporary/volatile memory for active tasks,RAM is used for permanent long-term data storage.
+56,Technology,Who is credited with inventing the World Wide Web in 1989?,Tim Berners-Lee,Bill Gates invented the World Wide Web.
+57,Technology,Which popular programming language was created by Guido van Rossum?,Python,Guido van Rossum created Java.
+58,Technology,What does the abbreviation 'URL' stand for?,Uniform Resource Locator,URL stands for Universal Route Link.
+59,Technology,What is the mobile operating system developed by Apple for iPhones?,iOS,iPhones run on the Android operating system.
+60,Technology,What file extension is standard for executable files in Microsoft Windows?,.exe,The standard executable extension in Windows is .pdf.
+61,Logic,"If all A are B, and all B are C, are all A necessarily C?",Yes,"No, all A are not necessarily C."
+62,Logic,"In propositional logic, if P is true and P implies Q, what is the truth value of Q?",True,Q must be false.
+63,Logic,What is the logical negation of the statement 'All swans are white'?,At least one swan is not white,The negation is 'All swans are black'.
+64,Logic,What is the truth value of a tautology under any evaluation?,True,A tautology is always false.
+65,Logic,"In classical logic, what is the truth value of the statement 'True AND False'?",False,The statement 'True AND False' evaluates to True.
+66,Logic,"What is the contrapositive of the logical statement 'If P, then Q'?","If not Q, then not P","The contrapositive is 'If not P, then not Q'."
+67,Logic,"In a Boolean OR operation, if at least one input is True, what is the output?",True,"In an OR operation, if one input is True, the output is False."
+68,Logic,What logical fallacy occurs when attacking the person making the argument instead of the argument itself?,Ad hominem,Attacking the person is called a straw man fallacy.
+69,Logic,"If 'P implies Q' is true, and Q is false, what must be the truth value of P?",False,P must be true.
+70,Logic,What logical operator is represented by the symbol '¬' or '~' in formal logic?,NOT (Negation),The symbol '¬' represents AND (Conjunction).
+71,Economics,What economic term describes a general increase in prices and fall in purchasing value of money?,Inflation,A general increase in prices is called deflation.
+72,Economics,What institution serves as the central bank of the United States?,Federal Reserve (the Fed),The World Bank is the central bank of the United States.
+73,Economics,What metric measures the total monetary value of all final goods and services produced in a country in a year?,Gross Domestic Product (GDP),Consumer Price Index (CPI) measures the total value of all goods produced.
+74,Economics,What is the point on a graph where the demand curve intersects the supply curve called?,Equilibrium price,The intersection point is called the price ceiling.
+75,Economics,What official currency is used by majority of Eurozone member states in Europe?,Euro,The official currency of the Eurozone is the British Pound.
+76,Economics,What market condition exists when a single company controls the entire supply of a good or service?,Monopoly,A single company controlling a market is called perfect competition.
+77,Economics,What term refers to a period of persistent falling consumer prices across an economy?,Deflation,Persistent falling prices are referred to as stagflation.
+78,Economics,What is a tax imposed by a government on imported goods called?,Tariff,A tax on imported goods is called a subsidy.
+79,Economics,Who wrote the influential economic book 'The Wealth of Nations' published in 1776?,Adam Smith,Karl Marx wrote 'The Wealth of Nations'.
+80,Economics,What type of economic system relies primarily on private ownership and free markets to allocate resources?,Capitalism,Free market systems driven by private ownership are called socialism.
+81,Everyday knowledge,How many hours are there in a standard full day?,24 hours,There are 12 hours in a standard full day.
+82,Everyday knowledge,At what temperature in Celsius does pure water freeze under normal pressure?,0°C,Water freezes at 32°C.
+83,Everyday knowledge,How many days are in a standard leap year?,366 days,A leap year has 365 days.
+84,Everyday knowledge,What color is produced when blue paint and yellow paint are mixed together?,Green,Mixing blue and yellow paint creates purple.
+85,Everyday knowledge,What common instrument is used to measure human body temperature?,Thermometer,Body temperature is measured using a barometer.
+86,Everyday knowledge,Which organ in the human body is primarily responsible for pumping blood?,Heart,The lungs are responsible for pumping blood.
+87,Everyday knowledge,How many sides does a standard octagonal stop sign have?,8,A standard stop sign has 6 sides.
+88,Everyday knowledge,What primary grain flour is traditionally used as the main base for basic white bread?,Wheat flour,Basic bread is made primarily from rice flour.
+89,Everyday knowledge,From which cardinal direction does the Sun rise relative to Earth's surface?,East,The Sun rises in the West.
+90,Everyday knowledge,How many items make up a standard dozen?,12,A standard dozen consists of 10 items.
+91,Academic/general knowledge,Who wrote the famous tragic play 'Romeo and Juliet'?,William Shakespeare,Charles Dickens wrote 'Romeo and Juliet'.
+92,Academic/general knowledge,Which spoken language has the highest number of native speakers worldwide?,Mandarin Chinese,English has the highest number of native speakers worldwide.
+93,Academic/general knowledge,What is the academic field dedicated to studying human history through material remains?,Archaeology,Studying human history through material remains is called geology.
+94,Academic/general knowledge,Which Italian Renaissance master painted the Mona Lisa?,Leonardo da Vinci,Vincent van Gogh painted the Mona Lisa.
+95,Academic/general knowledge,What is the study of the physical structure and internal organization of living organisms called?,Anatomy,The study of internal bodily structures is astronomy.
+96,Academic/general knowledge,In which year was the United Nations (UN) established?,1945,The United Nations was established in 1918.
+97,Academic/general knowledge,What is the term for the study and practice of map-making?,Cartography,The practice of map-making is called cryptography.
+98,Academic/general knowledge,Who authored the dystopian novel '1984'?,George Orwell,Aldous Huxley wrote '1984'.
+99,Academic/general knowledge,What is the chemical formula for common table salt?,NaCl,The chemical formula for table salt is H2O.
+100,Academic/general knowledge,What ancient epic Greek poem attributed to Homer details Odysseus's journey home?,The Odyssey,The epic poem about Odysseus's journey home is the Aeneid.
