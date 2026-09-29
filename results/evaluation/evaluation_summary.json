@@ -1,0 +1,19 @@
+{
+    "evaluation_mode": "mock_pipeline_verification",
+    "is_mock": true,
+    "disclaimer": "These results are for local pipeline verification only and DO NOT represent actual LLM performance.",
+    "test_dataset": "data/splits/test.csv",
+    "total_evaluated": 30,
+    "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "confusion_matrix": {
+        "true_negatives": 14,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "true_positives": 16
+    }
+}
