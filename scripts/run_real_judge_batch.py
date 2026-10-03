@@ -41,7 +41,7 @@ from src.judge.schema import JudgeResult
 # Maximum number of NEW examples to evaluate in this run
 LIMIT = 5
 
-MODEL_NAME = "gemini-3.6-flash"
+MODEL_NAME = "gemini-3.5-flash-lite"
 TEST_DATA_PATH = "data/splits/test.csv"
 RESULTS_FILE_PATH = "results/judge_results.csv"
 
